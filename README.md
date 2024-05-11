@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Khalaama/khalaama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋
 
 - 🔭 I’m currently working as a photographer, with a drive to learn more every single day. 
 - 🌱 I’m currently learning what I can do with GitHub. 
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Follow me on [Instagram](https://instagram.com/khalid.amakran/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have albinism, in case my profile pic made y'all wonder. :)
--->
+
